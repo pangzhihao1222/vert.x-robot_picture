@@ -1,0 +1,5 @@
+2021-01-21 12:39:20.994  INFO 30328 --- [ntloop-thread-1] i.v.c.i.ConfigRetrieverImpl              : Config file path: C:\Users\zhpan\AppData\Local\Temp\vertx-cache-d6e71d5b-b2ac-4e27-9774-e55cd2bfc749\conf\config.json, format:json
+2021-01-21 12:41:53.975  INFO 22432 --- [ntloop-thread-1] i.v.c.i.ConfigRetrieverImpl              : Config file path: C:\Users\zhpan\AppData\Local\Temp\vertx-cache-43032e06-2390-4791-a94f-317a523080cc\conf\config.json, format:json
+2021-01-21 12:43:56.028  INFO 18872 --- [ntloop-thread-1] i.v.c.i.ConfigRetrieverImpl              : Config file path: C:\Users\zhpan\AppData\Local\Temp\vertx-cache-25515105-23ad-4b28-b0fe-2b362079a840\conf\config.json, format:json
+2021-01-21 12:47:08.831  INFO 3920 --- [ntloop-thread-1] i.v.c.i.ConfigRetrieverImpl              : Config file path: C:\Users\zhpan\AppData\Local\Temp\vertx-cache-5403b961-26a7-447f-b33e-269400737172\conf\config.json, format:json
+2021-01-21 12:47:09.064  INFO 3920 --- [ntloop-thread-0] i.v.c.i.l.c.VertxIsolatedDeployer        : Succeeded in deploying verticle
